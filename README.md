@@ -2,10 +2,9 @@
 
 ## 🚀🚀 Criando um validador de CPF
 
-### Link do projeto: 
+### Link do projeto: https://alinealmeida85.github.io/Hiring-Projeto2/
 <br>
-
-### ✅ O desafio era acompanhar a criação de validação de CPF usando javascript, conhecemos como é feito o processo e a lógica utilizada para tal, amei a aula, segue o resultado.
+### ✅ O desafio foi acompanhar a criação de validação de CPF utilizando o JavaScript, conheci como foi feito o processo e a lógica utilizada, amei a aula, segue o resultado.
 <br>
 ✨
 <h1 align="center">
